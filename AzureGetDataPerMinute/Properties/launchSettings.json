@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureGetDataPerMinute": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7074 \r\n\r\n"
+    }
+  }
+}
